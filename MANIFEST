@@ -1,0 +1,13 @@
+inc/Module/Build/Functions.pm
+inc/Module/Build/Functions/DSL.pm
+inc/Module/Build/JSAN/Installable.pm
+inc/Module/JSAN.pm
+inc/Module/JSAN/DSL.pm
+lib/Raphael.js
+lib/Raphael/Plugin/Blur.js
+lib/Raphael/Plugin/Path/Methods.js
+lib/Raphael/Plugin/Primitives.js
+lib/Raphael/Plugin/Shadow.js
+MANIFEST			This list of files
+MANIFEST.SKIP
+README

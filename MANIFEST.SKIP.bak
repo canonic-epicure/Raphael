@@ -1,0 +1,19 @@
+#!include_default
+
+# Avoid Module::Build generated and utility files.
+\bBuild$
+\bBuild.bat$
+\b_build
+\bBuild.COM$
+\bBUILD.COM$
+\bbuild.com$
+
+# Avoid archives of this distribution
+\bRaphael-[\d\.\_]+
+^Build.PL$
+.tar.gz$
+^tests/lib/
+Raphael-1.2.8
+^\.project$
+^\.git\b
+^\.externalToolBuilders\b
