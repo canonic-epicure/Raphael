@@ -1,0 +1,40 @@
+{
+   "resources" : {
+      "license" : "http://www.opensource.org/licenses/mit-license.php"
+   },
+   "generated_by" : "Module::Build version 0.3601",
+   "meta-spec" : {
+      "version" : "1.4",
+      "url" : "http://module-build.sourceforge.net/META-spec-v1.4.html"
+   },
+   "version" : "v1.2.8",
+   "name" : "Raphael",
+   "author" : [
+      "Dmitriy Baranovsky"
+   ],
+   "license" : "mit",
+   "static_dir" : "static",
+   "provides" : {
+      "Raphael.Plugin.Path.Methods" : {
+         "version" : null,
+         "file" : "lib/Raphael/Plugin/Path/Methods.js"
+      },
+      "Raphael.Plugin.Primitives" : {
+         "version" : null,
+         "file" : "lib/Raphael/Plugin/Primitives.js"
+      },
+      "Raphael.Plugin.Blur" : {
+         "version" : null,
+         "file" : "lib/Raphael/Plugin/Blur.js"
+      },
+      "Raphael.Plugin.Shadow" : {
+         "version" : null,
+         "file" : "lib/Raphael/Plugin/Shadow.js"
+      },
+      "Raphael" : {
+         "version" : null,
+         "file" : "lib/Raphael.js"
+      }
+   },
+   "abstract" : "Cross-browser vector graphic library"
+}
