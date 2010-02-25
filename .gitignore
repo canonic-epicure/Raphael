@@ -1,0 +1,10 @@
+_build
+Build
+blib
+.project
+.externalToolBuilders
+MANIFEST.bak
+/doc/*
+/inc/*
+/origin/*
+Raphael-*.tar.gz

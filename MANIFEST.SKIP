@@ -52,4 +52,5 @@ Raphael-1.2.8
 ^\.project$
 ^\.git\b
 ^\.externalToolBuilders\b
-^doc/
+^MYMETA.yml$
+^origin\b

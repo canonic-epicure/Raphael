@@ -7,7 +7,7 @@
       "version" : "1.4",
       "url" : "http://module-build.sourceforge.net/META-spec-v1.4.html"
    },
-   "version" : "v1.2.8",
+   "version" : "v1.3.1",
    "name" : "Raphael",
    "author" : [
       "Dmitriy Baranovsky"

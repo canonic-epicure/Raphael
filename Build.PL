@@ -8,3 +8,5 @@ author              'Dmitriy Baranovsky',
 abstract            'Cross-browser vector graphic library'
 	
 license             mit
+
+docs_markup         mmd
